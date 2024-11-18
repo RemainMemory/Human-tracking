@@ -1,5 +1,3 @@
-## **README.md**
-
 # Real-Time Human Detection System
 
 ## **项目简介**
