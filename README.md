@@ -1,7 +1,3 @@
-好的，我将为你重新编写一个更简洁清晰的 **README.md** 文件，不包括截图部分，并更聚焦于如何安装和使用你的项目。
-
----
-
 ## **README.md**
 
 # Real-Time Human Detection System
@@ -138,7 +134,3 @@ python main.py
 
 ## **许可证**
 本项目基于 MIT 许可证开源。
-
----
-
-希望这个 README 文件能够帮助用户更好地理解和使用你的项目。如果还有需要调整的地方，请随时告知！# Human-tracking
