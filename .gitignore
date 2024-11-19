@@ -1,1 +1,44 @@
+# 忽略 Conda 虚拟环境文件夹
+/env/
+
+# 忽略 Python 编译文件
+*.pyc
+*.pyo
+*.pyd
+__pycache__/
+*.pdb
+*.egg-info/
+
+# 忽略 IDE 配置文件
+.idea/
+.vscode/
+
+# 忽略操作系统生成的文件
 .DS_Store
+Thumbs.db
+
+# 忽略日志文件
+*.log
+
+# 忽略本地配置文件
+*.env
+*.local
+
+# 忽略 Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# 忽略模型文件（如有）
+*.h5
+*.ckpt
+*.onnx
+*.tflite
+
+# 忽略大型数据文件（如需要上传，请使用 Git LFS）
+/data/
+*.csv
+*.json
+
+# 忽略临时文件
+*.tmp
+*.bak
+*.swp
