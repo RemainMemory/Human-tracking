@@ -34,8 +34,8 @@
 1. **克隆项目**
    使用以下命令克隆项目：
    ```bash
-   git clone <your-github-repository-url>
-   cd <project-directory>
+   git clone https://github.com/RemainMemory/Human-tracking.git
+   cd Human-tracking
    ```
 
 2. **创建 Conda 环境**
